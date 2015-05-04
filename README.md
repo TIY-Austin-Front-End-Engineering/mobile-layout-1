@@ -63,6 +63,8 @@ Put all of your css for both pages in a `main.css` file within a css directory w
 Your home page (`index.html`) and your second page (`other-page.html`) should have links should have links to each other. Additionally, you should add one more external link to a website of your choice on either your home page or second page.
 
 ## Hard Mode
+*Hard mode is optional if you have extra time and want to challenge yourself*.
+
 Trim down your total HTML to 1650 characters or fewer **while maintaining proper indentation and understandable class names**. It's no good if your markup is unreadable.
 
 Trim down your total CSS to 2000 characters or fewer **while maintaining proper indentation and understandable class names**. It's no good if your CSS is unreadable.
