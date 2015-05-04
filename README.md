@@ -67,7 +67,7 @@ Your home page (`index.html`) and your second page (`other-page.html`) should ha
 
 Trim down your total HTML to 1650 characters or fewer **while maintaining proper indentation and understandable class names**. It's no good if your markup is unreadable.
 
-Trim down your total CSS to 2000 characters or fewer **while maintaining proper indentation and understandable class names**. It's no good if your CSS is unreadable.
+Trim down your total CSS to 2000 characters or fewer **while maintaining proper indentation and understandable class names**. It's no good if your CSS is unreadable. Don't count CSS normalization code if you are using something like normalize.css.
 
 *The goal here is to make your code as efficient as possible. Cut out all the unnecessary markup and styling*.
 
