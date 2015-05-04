@@ -62,6 +62,8 @@ Put all of your css for both pages in a `main.css` file within a css directory w
 
 Your home page (`index.html`) and your second page (`other-page.html`) should have links should have links to each other. Additionally, you should add one more external link to a website of your choice on either your home page or second page.
 
+## Hard Mode
+Modify your normal mode assignment to add a bio of yourself to one of the boxes. Add a drop shadow to the text. Modify 4 other boxes to have a drop shadow. The drop shadow should disappear when you mouse over a box.
 
 ## Notes
 
