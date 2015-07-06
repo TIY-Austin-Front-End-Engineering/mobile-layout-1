@@ -51,16 +51,19 @@ After completing this assignment, you be able to effectively use
 
 * No legitimate W3C validation errors.
 * The page should be responsive, meaning that if the browser window expands, the colored blocks should expand with it. However spacing between elements should remain fixed.
+* You must use normalize.css for cross browser consistency.
 
 
 ## Normal Mode
-Using your knowledge of HTML and CSS, replicate the mobile layout displayed in [this image file](/layout1.png) in a file called `index.html` within your dist directory.
+Using your knowledge of HTML and CSS, replicate the mobile layout displayed in [this image file](/page1.png) in a file called `index.html` within your dist directory.
 
-Next, replicate the mobile layout displayed in [this image file](/layout2.png) in a file called `other-page.html` within your dist directory.
+Next, replicate the mobile layout displayed in [this image file](/page2.png) in a file called `page2.html` within your dist directory.
 
 Put all of your css for both pages in a `main.css` file within a css directory within your dist directory.
 
-Your home page (`index.html`) and your second page (`other-page.html`) should have links should have links to each other. Additionally, you should add one more external link to a website of your choice on either your home page or second page.
+Your home page (`index.html`) and your second page (`page2.html`) should have links should have links to each other (see the navigation at the top of the files). Additionally, you should add one more external link to a website of your choice on either your home page or second page.
+
+You must use normalize.css for cross browser consistency.
 
 ## Hard Mode
 *Hard mode is optional if you have extra time and want to challenge yourself*.
