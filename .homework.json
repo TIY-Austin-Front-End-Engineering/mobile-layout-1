@@ -4,7 +4,8 @@
     "title": "Mobile Layout 1",
     "description": "Build out a simple mobile website using HTML and CSS",
     "difficultyModes": [
-        "Normal"
+        "Normal",
+        "Hard"
     ],
     "keywords": [
         "CSS",
@@ -13,6 +14,7 @@
         "Mobile"
     ],
     "supplementalFiles": [
-        "layout.png"
+        "page1.png",
+        "page2.png"
     ]
 }
