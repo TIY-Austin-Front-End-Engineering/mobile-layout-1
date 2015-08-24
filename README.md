@@ -43,9 +43,9 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * dist/index.html
-  * dist/other-page.html
-  * dist/css/main.css
+  * index.html
+  * other-page.html
+  * styles/main.css
 
 ### Requirements
 
