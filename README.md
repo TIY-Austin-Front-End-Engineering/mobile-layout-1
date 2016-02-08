@@ -13,7 +13,6 @@ After completing this assignment, you should…
  * be able to target and style elements with CSS
  * use Digital Color Meter to determine colors of things on your screen
  * understand how to use pixels to specify measurements in CSS
- * know how to validate your HTML using the W3C validator sublime plugin
  * understand the difference between a head tag and a header tag
 
 ### Performance Objectives
@@ -49,7 +48,6 @@ After completing this assignment, you be able to effectively use
 
 ### Requirements
 
-* No legitimate W3C validation errors.
 * The page should be responsive, meaning that if the browser window expands, the colored blocks should expand with it. However spacing between elements should remain fixed.
 * You must use [Normalize.css](http://necolas.github.io/normalize.css/) for cross browser consistency.
 
